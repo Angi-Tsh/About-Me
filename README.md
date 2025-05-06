@@ -5,13 +5,13 @@ Who is Angello?
 
 ## About Me 🚀
 
-I'm a passionate **Front End Developement** with experience in **UI/UX Design, and Figma**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Front End Developement** with experience in **UI/UX Design, Figma, civil engineering and international teaching** who wants to **build intuitive, human-centered web experiences**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **HTML and CSS**
 - 🔭 Working on: **Front End Development Certificate**
 - 🌍 Languages: **English, Sepedi and more to come!**
 - 📫 How to reach me: **kktshoga@gmail.com**
-- ⚡ Fun fact: **I live and love Japan and I am South African, passionate about Africa!**
+- ⚡ Fun fact: **I am a South African living in Japan who is passionate about Africa!**
 
 ## My Skills 🧠
 
