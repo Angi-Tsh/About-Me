@@ -31,7 +31,7 @@ I'm a passionate **Front End Developement** with experience in **UI/UX Design, F
 ## Get in Touch 📬
 
 - **My Website**(https://angellotshoga.framer.website/)
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/angello-tshoga-b416b2a7/))
+- **LinkedIn**(https://www.linkedin.com/in/angello-tshoga-b416b2a7/)
 
 
 
