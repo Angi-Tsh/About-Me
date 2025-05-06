@@ -1,7 +1,7 @@
 # About Her
 Who is Angello?
 
-![Banner Image] <img src="PXL_20240217_064405796.jpg" alt="My Profile Picture" width="150" height="200" align="left" style="margin-right: 10px;">
+![Banner Image] <img src="PXL_20240217_064405796.jpg" alt="My Profile Picture" width="100" height="150" align="left" style="margin-right: 10px;">
 
 ## About Me 🚀
 
