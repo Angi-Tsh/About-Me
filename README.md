@@ -25,9 +25,7 @@ I'm a passionate **Front End Developement** with experience in **UI/UX Design, F
 
 ### FJET (https://kokitshoga.wordpress.com/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**FJET** is a **website for foreign teachers living in Fukui, Japan** built with **Wordpress through User Experience Design Principles**. This project demonstrates my ability to **research user needs, process information, run usability studies and create information architecture that is ituitive**. You can check out the websisite(https://kokitshoga.wordpress.com/).
 
 
 ## Get in Touch 📬
