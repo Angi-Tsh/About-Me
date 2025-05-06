@@ -1,6 +1,5 @@
-# About-Me
+# About Her
 Who is Angello?
-# Hi there, I'm Angello! 👋
 
 ![Banner Image]( )
 
